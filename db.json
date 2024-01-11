@@ -1,0 +1,96 @@
+{
+  "burgers": [
+    {
+      "id": 1,
+      "title": "Drone Burger",
+      "price": 5.99,
+      "toppings": [
+        "Lettuce",
+        "Tomato",
+        "Onion",
+        "Pickles",
+        "Ketchup",
+        "Mustard",
+        "Mayo"
+      ],
+      "image": "\\images\\drone-burger.png"
+    },
+    {
+      "id": 2,
+      "title": "Cheese Burger",
+      "price": 6.99,
+      "toppings": [
+        "Lettuce",
+        "Tomato",
+        "Onion",
+        "Pickles",
+        "Ketchup",
+        "Mustard",
+        "Mayo",
+        "Cheese"
+      ],
+      "image": "\\images\\cheese-burger.png"
+    },
+    {
+      "id": 3,
+      "title": "Veggie Burger",
+      "price": 7.99,
+      "toppings": [
+        "Lettuce",
+        "Tomato",
+        "Onion",
+        "Pickles",
+        "Ketchup",
+        "Mustard",
+        "Mayo"
+      ],
+      "image": "\\images\\veggie-burger.png"
+    }
+  ],
+  "fries": [
+    {
+      "id": 1,
+      "title": "Regular Fries",
+      "price": 3.49,
+      "image": "\\images\\regular-fries.png"
+    },
+    {
+      "id": 2,
+      "title": "Sweet Potato Fries",
+      "price": 3.99,
+      "image": "\\images\\sweet-potato-fries.png"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "title": "Frida Soda",
+      "price": 2.49,
+      "image": "\\images\\frida-soda.png"
+    },
+    {
+      "id": 2,
+      "title": "Olipop Tonic",
+      "price": 2.49,
+      "image": "\\images\\olipop-tonic.png"
+    },
+    {
+      "id": 3,
+      "title": "Calpis Water",
+      "price": 1.99,
+      "image": "\\images\\calpis-water.png"
+    },
+    {
+      "id": 4,
+      "title": "Positive Energy Drink",
+      "price": 3.49,
+      "image": "\\images\\positive-energy-drink.png"
+    },
+    {
+      "id": 5,
+      "title": "Oreo Vanilla Milkshake",
+      "price": 6.99,
+      "image": "\\images\\oreo-vanilla-milkshake.png"
+    }
+  ]
+}
